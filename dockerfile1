@@ -1,0 +1,3 @@
+FROM Nginx
+CMD systemctl start ngnix
+
