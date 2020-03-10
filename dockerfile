@@ -6,3 +6,4 @@ RUN cp -rf /tmp/Simple_Studio_1.0
 COPY . /usr/local/apache2/htdocs
 
 
+
